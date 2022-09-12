@@ -144,6 +144,42 @@
         "happy"
       ],
       "id": "14"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "Oldman",
+      "personalityTraits": [
+        "happy"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Hank",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "Oldman",
+      "personalityTraits": [
+        "happy"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "Oldman",
+      "personalityTraits": [
+        "happy"
+      ],
+      "id": "18"
     }
   ]
 }
